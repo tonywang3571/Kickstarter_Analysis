@@ -1,2 +1,2 @@
 # Kickstarter_Analysis
-Kickstarter Analysis Project
+Performing analysis on kickstarter data to analyze trends
