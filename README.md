@@ -32,4 +32,7 @@ According to our analysis, we can see the rate of success for reaching the fundr
 Limitation of this dataset includes the years range. Currently, we are in 2021 almost 2022, but the range of the years goes from 2009 to 2017. This dataset does not give us the most recent 4 years of results of the industry. Using plays as an example for another limitation, plays has a variety of genre including comedy or tragedy but our data set does not separate these differences.
 
 - What are some other possible tables and/or graphs that we could create?  
-Other tables and/or graphs we could create could see how much was pledged per backers for a specific parent category and/or subcategory to see what people are interested in supporting. Or compare and contrasting differences between 2 other entertainment categories like music and film.
+Other tables and/or graphs we could create could see how much was pledged per backers for a specific parent category and/or subcategory to see what people are interested in supporting. Or compare and contrasting differences between 2 other entertainment categories like music and film.  
+
+### Codes Used
+<img src="Resources/Codes_Used.png" width="800">
