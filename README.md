@@ -8,16 +8,15 @@ Louise is an up and coming playwrite wanting to start a crowdfunding campaign to
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date:  
+**Analysis of Outcomes Based on Launch Date:**  
 We want to know how launch dates in different months can impact successfulness of plays. We first sorted the data into different months on when plays were launched, then separated them into "successful", "failed", or canceled" categories by using pivot tables. From there we can create a visual representation of the data using a line graph to give us a better illistration of our findings.  
-<img src="Resources/Theater_Outcomes_vs_Launch.png" width="300">
+<img src="Resources/Theater_Outcomes_vs_Launch.png" width="400">
 
-### Analysis of Outcomes Based on Goals:  
+**Analysis of Outcomes Based on Goals:**  
 We want to know how different ranges of fundraising goals can impact the sucessfulness of plays. First, we sorted the data into different categories based on the fundraising goal amount. Then we separated them into "successful", "failed", or canceled" categories within the parameters of the fundraising goal amount categories. From there we calculated the percentage of "successful", "failed", or canceled." Lastly, we provided a line graph of the percentage of the results based on the fundraising goals categories.  
-<img src="Resources/Outcomes_vs_Goals.png" width="300">
-<img src="Resources">
+<img src="Resources/Outcomes_vs_Goals.png" width="400" height="250">
 
-### Challenges and Difficulties Encountered:  
+**Challenges and Difficulties Encountered:**  
 I think the biggest challenge for me with this project is telling the story of the analysis that is performed. Story telling has to be clear and exciting so all information are passed from the presenter to the listeners. If the information isn't clear, then the listeners would get lost or confused on the presentation. If the presentation isn't exciting, then people would lose interest and daydream about other things. To combat these challenges, I like to keep things short and to the point. Using Excel and writing functions are pretty easy when you know which formulas to use and how to pass parameters for each function. When you mess up a function or are unsure of the parameters, then it can get frustrating and annoying to debug the issues. Another thing that I just thought of that is difficult for me is spelling when using an .md file because there isn't a spellcheck feature. As well as the long scrolling for the longer sentences.
 
 
