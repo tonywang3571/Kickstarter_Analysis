@@ -27,7 +27,7 @@ According to our analysis, we can see that the most successful months to launch 
 
 - What can you conclude about the Outcomes based on Goals?  
 According to our analysis, we can see the rate of success for reaching the fundraising goal based on the goal amount are more successful when the goal amount is lower vs if the goal amount is higher. It is also important to note that, even though goals ranging from $35000 to $44999 show a higher or greater than 50% success rate, the total number of projects within that range are lower compared to the total number of projects at a lower fundraising goal. Having a higher sample size within each goals range can give you a better representation of the outcome. This information is helpful to Louise because her goal for her play is greater than $10000 at this time. If she is able to decrease the cost and fundraising goal, she would have a greater success in achieving the fundraising goal.  
-<img src="Resources/Total_Projects.png" width="800">
+<img src="Resources/Total_Projects.png" width="600">
 
 - What are some limitations of this dataset?  
 Limitation of this dataset includes the years range. Currently, we are in 2021 almost 2022, but the range of the years goes from 2009 to 2017. This dataset does not give us the most recent 4 years of results of the industry. Using plays as an example for another limitation, plays has a variety of genre including comedy or tragedy but our dataset does not separate these differences.
