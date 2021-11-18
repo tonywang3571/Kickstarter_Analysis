@@ -35,4 +35,4 @@ Limitation of this dataset includes the years range. Currently, we are in 2021 a
 Other tables and/or graphs we could create could see how much was pledged per backers for a specific parent category and/or subcategory to see what people are interested in supporting. Or compare and contrasting differences between 2 other entertainment categories like music and film.  
 
 ### Codes Used
-<img src="Resources/Codes_Used.png" width="800">
+<img src="Resources/Codes_Used.PNG" width="800">
